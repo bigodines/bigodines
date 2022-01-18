@@ -12,5 +12,6 @@
 ```
 ```
 => Currently selling tickets @ Gametime.co 
-=> If a project is not pinned, it's not maintained. 
+
+=> Previously @ Luxe, Vungle and Yahoo.
 ```
