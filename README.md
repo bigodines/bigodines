@@ -11,7 +11,7 @@
       ░                      
 ```
 ```
-=> Currently selling tickets @ Gametime.co 
+=> Currently building the future of in-home care @ Honorcare.com 
 
-=> Previously @ Luxe, Vungle and Yahoo.
+=> Previously @ Gametime, Luxe, Vungle and Yahoo.
 ```
