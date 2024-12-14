@@ -11,7 +11,7 @@
       ░                      
 ```
 ```
-=> Currently building the future of in-home care @ Honorcare.com 
+=> Currently building the future of homecare @ Honorcare.com 
 
 => Previously @ Gametime, Luxe, Vungle and Yahoo.
 ```
